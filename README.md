@@ -1,9 +1,10 @@
 # NextQuad
 
-Catalin Botezat cb5330
-Nursultan Sagyntay ns5745
-Zavier Shaikh zs2838
-Haroon Shafi hs5312
+Team:
+[Catalin Botezat](https://github.com/CatalinMoldova) <sub><sup>(cb5330)</sup></sub>,
+[Nursultan Sagyntay](https://github.com/kazakhpunk) <sub><sup>(ns5745)</sup></sub>,
+[Zavier Shaikh](https://github.com/zs-5) <sub><sup>(zs2838)</sup></sub>,
+[Haroon Shafi](https://github.com/haroonshafi) <sub><sup>(hs5312)</sup></sub>
 
 *NextQuad* is a hyper-local community app designed exclusively for NYU students — think Nextdoor for college campuses. It brings together dorms, classes, events, and a student marketplace into one verified, private platform.
 
