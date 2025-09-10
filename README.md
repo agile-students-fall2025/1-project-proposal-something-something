@@ -1,5 +1,10 @@
 # NextQuad
 
+Catalin Botezat cb5330
+Nursultan Sagyntay ns5745
+Zavier Shaikh zs2838
+Haroon Shafi hs5312
+
 *NextQuad* is a hyper-local community app designed exclusively for NYU students — think Nextdoor for college campuses. It brings together dorms, classes, events, and a student marketplace into one verified, private platform.
 
 ---
